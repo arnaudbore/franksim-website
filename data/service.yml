@@ -1,38 +1,49 @@
 ---
 enable: true
-title: "Why Choose us?"
-subtitle: >
-          We enable people and businesses to work where they want, 
-          when they want and how they want.
+title: "What makes Frank different ?"
+#subtitle: >
+#          We enable people and businesses to work where they want, 
+#          when they want and how they want.
 services:
-  - name: "largest Network"
+  - name: "Highly realistic human form that moves like an unconscious human"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-view-grid"
-  - name: "All Sizes And Budget"
+                Lifelike skin representation with internal steel skeleton fully articulated &amp; over
+                molded in silicone with high fidelity anatomically correct joints.
+                Anthropometrically calibrated mass and center of mass distribution across
+                segments. Height of 5,7 feet and weight of 165 pounds. From prone to supine, to
+                lateral log roll or position Frank’s segments follow the movement and inertia of a
+                real unconscious person.
+    icon: "ti-user"
+  - name: "Ready for in situ EMS training"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-infinite"
-  - name: "Dedicated Account Manager"
+                Engineered for in situ EMS training with strengthen internal skeleton for
+                resistance to wear, stress, and abuse, changeable face mask and chest suit and
+                replacement arms and legs. Easy to maintain and use and can be operated for up
+                to 20 hours continuously in harsh environments.
+    icon: "ti-support"
+  - name: "Interactive training and learning"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-help-alt"
-  - name: "Easy Payment"
+                Smartphone based application pairs with integrated sensors from the
+                mannequin to provide real time auditory and visual feedback on spinal
+                precautions, BVM ventilation, intubation, CPR and support debriefing.
+    icon: "ti-mobile"
+  - name: "Spinal precaution effectiveness"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-credit-card"
-  - name: "Dedicated Locker"
+                Articulated cervical and lumbar spine with motion sensors providing real-time
+                and differed feedback on head and trunk motion during mobilization and
+                transfer.
+    icon: "ti-alert"
+  - name: "Advanced airway"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-lock"
-  - name: "Personalization"
+                Weighted head that moves in 4D with articulated jaw to allow airway opening
+                techniques and sniffing position, realistic airways allowing insertion of naso-
+                tracheal, supraglottic and endotracheal devices and sensors-based performances
+                measures from bag valve mask ventilation.
+    icon: "ti-panel"
+  - name: "CPR"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-image"
+                Innovative chest anatomy design allowing realistic compression depth and
+                resistance with automatic detection of depth, release and frequency of
+                compressions according to guidelines.
+    icon: "ti-heart-broken"
 ---
