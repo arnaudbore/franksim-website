@@ -8,7 +8,7 @@ title = 'FrankSim'
   # Main Menu
   [[menu.Main]]
   name = "Meet Frank"
-  url= "meet"
+  url= "/meet/"
   weight = 1
   [[menu.Main]]
   name = "Frank stories"
