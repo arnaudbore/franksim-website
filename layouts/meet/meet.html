@@ -4,13 +4,22 @@
     <div class="row">
       <div class="col-lg-12">
         <div class="page-header">
-          <h1>{{ .Title}}</h1>
-          <p>{{.Params.subTitle}}</p>
+          <h1>{{ .Params.FirstTitle}}</h1>
+          <div class="privacy-policy-content">
+            <div class="privacy-policy-item">
+            {{.Params.subtitle}}
+            </div>
+          </div>
         </div>
       </div>
     </div>
-    <div class="row">
-      <div class="col-lg-12">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="page-header">
+            <h1>{{ .Params.SecondTitle}}</h1>
+          </div>
+        </div>
         <div class="privacy-policy-content">
           <div class="privacy-policy-item">
             {{.Content}}

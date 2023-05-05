@@ -12,13 +12,17 @@
     </div>
     <div class="row">
       {{ range .investor}}
-      <div class="col-lg-3">
+      <div class="col-lg-6">
         <div class="member-informashion">
           <div class="member-thume">
             <img src="{{ .image | absURL }}" alt="image">
           </div>
-          <h3><a href={{.link}}>{{.name}}</a> </h3>
+          <h3><a href={{.link}}>{{.name}}</a></h3>
           <p>{{.post}}</p>
+            {{.degree}}<br>
+            {{.cv}}<br>
+            {{.expertise}}<br>
+        </p>
         </div>
       </div>
       {{end}}

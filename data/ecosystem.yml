@@ -1,0 +1,18 @@
+---
+title : "Ecosystem
+"
+enable: true
+#subtitle: >
+ #       We are the world’s largest provider of flexible workspace solutions,
+ #       with customers including some of the most successful entrepreneurs
+galleryImage: 
+ - image: "images/ecosystem/3IT.png"
+ - image: "images/ecosystem/CDRV.jpeg"
+ - image: "images/ecosystem/centre_universitaire_santé_québec.jpeg"
+ - image: "images/ecosystem/CHUS.jpeg"
+ - image: "images/ecosystem/CMRT-1.webp"
+ - image: "images/ecosystem/protection_incendies_sherbrooke.jpeg"
+ - image: "images/ecosystem/ctae-logo.jpeg"
+ - image: "images/ecosystem/patrouille_ski.png"
+ - image: "images/ecosystem/UdeS.png"
+---

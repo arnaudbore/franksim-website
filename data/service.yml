@@ -7,43 +7,27 @@ title: "What makes Frank different ?"
 services:
   - name: "Highly realistic human form that moves like an unconscious human"
     description: >
-                Lifelike skin representation with internal steel skeleton fully articulated &amp; over
-                molded in silicone with high fidelity anatomically correct joints.
-                Anthropometrically calibrated mass and center of mass distribution across
-                segments. Height of 5,7 feet and weight of 165 pounds. From prone to supine, to
-                lateral log roll or position Frank’s segments follow the movement and inertia of a
-                real unconscious person.
+                Lifelike skin representation with internal steel skeleton fully articulated.
     icon: "ti-user"
   - name: "Ready for in situ EMS training"
     description: >
-                Engineered for in situ EMS training with strengthen internal skeleton for
-                resistance to wear, stress, and abuse, changeable face mask and chest suit and
-                replacement arms and legs. Easy to maintain and use and can be operated for up
-                to 20 hours continuously in harsh environments.
+                Engineered for in situ EMS training with strengthen internal skeleton.
     icon: "ti-support"
   - name: "Interactive training and learning"
     description: >
                 Smartphone based application pairs with integrated sensors from the
-                mannequin to provide real time auditory and visual feedback on spinal
-                precautions, BVM ventilation, intubation, CPR and support debriefing.
+                mannequin.
     icon: "ti-mobile"
   - name: "Spinal precaution effectiveness"
     description: >
-                Articulated cervical and lumbar spine with motion sensors providing real-time
-                and differed feedback on head and trunk motion during mobilization and
-                transfer.
-    icon: "ti-alert"
+                Articulated cervical and lumbar spine with motion sensors.
+    icon: "ti-thumb-up"
   - name: "Advanced airway"
     description: >
-                Weighted head that moves in 4D with articulated jaw to allow airway opening
-                techniques and sniffing position, realistic airways allowing insertion of naso-
-                tracheal, supraglottic and endotracheal devices and sensors-based performances
-                measures from bag valve mask ventilation.
-    icon: "ti-panel"
+                Weighted head that moves in 4D with articulated jaw.
+    icon: "ti-loop"
   - name: "CPR"
     description: >
-                Innovative chest anatomy design allowing realistic compression depth and
-                resistance with automatic detection of depth, release and frequency of
-                compressions according to guidelines.
+                Innovative chest anatomy design.
     icon: "ti-heart-broken"
 ---

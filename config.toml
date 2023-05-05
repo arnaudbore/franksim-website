@@ -1,8 +1,17 @@
 baseURL = 'https://singular-jelly-b03613.netlify.app'
-languageCode = 'en-us'
 paginate = 6
 theme= "coHub"
 title = 'FrankSim'
+
+[Languages.en]
+languageName = "En"
+languageCode = 'en-us'
+contentDir = "content/en"
+
+[Languages.fr]
+languageName = "Fr"
+languageCode = 'fr'
+contentDir = "content/fr"
  
 [Menu]
   # Main Menu
@@ -19,17 +28,9 @@ title = 'FrankSim'
   url= "/about/"
   weight = 4
   [[menu.Main]]
-  name = "Frank's friends"
-  url= "/friends/"
-  weight = 5
-  [[menu.Main]]
-  name = "FAQ"
-  url= "/faq/"
-  weight = 6
-  [[menu.Main]]
   name = "Contact"
   url= "/contact/"
-  weight = 7
+  weight = 5
 
   # Sitemap Menu
 #  [[menu.sitemap]]
@@ -71,7 +72,7 @@ title = 'FrankSim'
 #  weight = 1
   [[params.social]]
   icon = "ti-twitter-alt"
-  url = "https://twitter.com/"
+  url = "https://twitter.com/franksim2022"
   weight = 2
     [[params.social]]
   icon = "ti-linkedin"
@@ -81,9 +82,9 @@ title = 'FrankSim'
 #  icon = "ti-dribbble"
 #  url = "https://dribbble.com/"
 #  weight = 3
-#  [[params.social]]
-#  icon = "ti-instagram"
-#  url = "https://www.instagram.com/"
-#  weight = 4
+[[params.social]]
+icon = "ti-youtube"
+url = "https://www.youtube.com/@FrankSim2022"
+weight = 4
   
   
