@@ -9,25 +9,31 @@ services:
     description: >
                 Lifelike skin representation with internal steel skeleton fully articulated.
     icon: "ti-user"
+    link: meet
   - name: "Ready for in situ EMS training"
     description: >
                 Engineered for in situ EMS training with strengthen internal skeleton.
     icon: "ti-support"
+    link: meet
   - name: "Interactive training and learning"
     description: >
                 Smartphone based application pairs with integrated sensors from the
                 mannequin.
     icon: "ti-mobile"
+    link: meet
   - name: "Spinal precaution effectiveness"
     description: >
                 Articulated cervical and lumbar spine with motion sensors.
     icon: "ti-thumb-up"
+    link: meet
   - name: "Advanced airway"
     description: >
                 Weighted head that moves in 4D with articulated jaw.
     icon: "ti-loop"
+    link: meet
   - name: "CPR"
     description: >
                 Innovative chest anatomy design.
     icon: "ti-heart-broken"
+    link: meet
 ---

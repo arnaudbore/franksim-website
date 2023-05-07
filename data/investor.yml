@@ -8,7 +8,7 @@ investor:
   - name: "Patrick Boissy"
     post: "CEO"
     image: "images/team/patrickcompress.jpg"
-    link: "www.google.com"
+    absLink: "www.google.com"
     degree: "PhD Biomedical sciences / Professor in orthopedic surgery"
     cv: "Senior researcher 25 million $ cumulative funding / 140 publications"
     expertise: "Expertise in biomechanics and technology evaluation"
