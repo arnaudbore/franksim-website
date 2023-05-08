@@ -31,8 +31,7 @@ investor:
 ## This Is Our Story.
 
 
-[toto](www.google.com)
-dsadsadsahsahlkjfsdhfjsadfjFrank our simulation mannequin platform was developed through research at University of
+Frank our simulation mannequin platform was developed through research at University of
 Sherbrooke and extensively tested in multiple EMS training scenarios with over 500 firefighters,
 paramedics, first responders, nurses and ER personnel. FrankSim was founded in June 2022 by
 Patrick Boissy and Mathieu Hamel combining 42 years of experience in research on the
