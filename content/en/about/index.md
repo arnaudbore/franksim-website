@@ -1,16 +1,38 @@
 ---
 title: "Who we are"
 date: 2022-01-08T10:41:03+06:00
+
 #subTitle: >
 #        Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.
 sliderImage:
   - image: "images/stor/story-01.jpg"
   - image: "images/stor/story-01.jpg"
   - image: "images/stor/story-01.jpg"
+
+title_team: "Our team"
+
+investor:
+  - name: "Patrick Boissy"
+    post: "CEO"
+    image: "images/team/patrickcompress.jpg"
+    url: "www.google.com"
+    degree: "PhD Biomedical sciences / Professor in orthopedic surgery"
+    cv: "Senior researcher 25 million $ cumulative funding / 140 publications"
+    expertise: "Expertise in biomechanics and technology evaluation"
+  - name: "Mathieu Hamel"
+    post: "CTO"
+    image: "images/team/mathieucompress.jpg"
+    url: "Autre_address"
+    degree: "MSc A Electrical engineering / Bioengineering platform director"
+    cv: "Senior biomedical engineer (22 years' experience)"
+    expertise: "Full stack engineer in mechatronics"
 ---
+
 ## This Is Our Story.
 
-Frank our simulation mannequin platform was developed through research at University of
+
+[toto](www.google.com)
+dsadsadsahsahlkjfsdhfjsadfjFrank our simulation mannequin platform was developed through research at University of
 Sherbrooke and extensively tested in multiple EMS training scenarios with over 500 firefighters,
 paramedics, first responders, nurses and ER personnel. FrankSim was founded in June 2022 by
 Patrick Boissy and Mathieu Hamel combining 42 years of experience in research on the
