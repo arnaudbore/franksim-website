@@ -76,7 +76,7 @@ contentDir = "content/fr"
   weight = 2
     [[params.social]]
   icon = "ti-linkedin"
-  url = "https://linkedin.com/"
+  url = "https://www.linkedin.com/company/franksim/"
   weight = 3
 #  [[params.social]]
 #  icon = "ti-dribbble"
