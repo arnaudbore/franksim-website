@@ -1,6 +1,6 @@
 .service {
   background: #f7f8fc;
-  padding: 50px 0;
+  padding: 20px 0;
   @include mobile {
     padding: 20px 0;
   }
@@ -15,6 +15,9 @@
     @include mobile {
       padding: 20px;
       margin-bottom: 20px;
+    }
+    a {
+      color: $text-color-dark;
     }
     i {
       font-size: 40px;
@@ -36,6 +39,9 @@
     &:hover {
       transform: scale(1.05);
       i {
+        color: #9C2921;
+      }
+      a {
         color: #9C2921;
       }
     }
