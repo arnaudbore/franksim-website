@@ -9,4 +9,14 @@ enable: true
 # - image: "images/gallery/gallery02.jpg"
 # - image: "images/gallery/gallery03.jpg"
 # - image: "images/gallery/gallery04.jpg"
+
+galleryVideo:
+- name: "XpGZeq7jbhY"
+  title: "C-spine F1 controlled extrication"
+- name: "AwYH6SQL3P4"
+  title: "Unresponsive GP3RT rapid extrication"
+- name: "lmC8FJ4VVZ8"
+  title: "C-spine GP3RT controlled extrication"
+- name: "Hiq9ke9LAo4"
+  title: "Code 99 constrained environment hockey player"
 ---
