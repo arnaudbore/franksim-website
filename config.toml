@@ -20,7 +20,7 @@ contentDir = "content/fr"
   url= "/meet/"
   weight = 1
   [[menu.Main]]
-  name = "Frank stories"
+  name = "Frank's stories"
   url= "/stories/"
   weight = 3
   [[menu.Main]]
@@ -65,7 +65,7 @@ contentDir = "content/fr"
   #longitude = "-122.783407"
   #pinImage = "images/pin.png"
 
-  # Socail icons
+  # Social icons
 #  [[params.social]]
 #  icon = "ti-facebook"
 #  url = "https://www.facebook.com/"

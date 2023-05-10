@@ -26,20 +26,12 @@ investor:
     expertise: "Full stack engineer in mechatronics"
 ---
 
-## This Is Our Story.
+- Frank our simulation mannequin platform was developed through research at University of Sherbrooke and extensively tested in multiple EMS training scenarios with over 500 firefighters, paramedics, first responders, nurses and ER personnel.
 
+- FrankSim was founded in June 2022 by Patrick Boissy and Mathieu Hamel combining 42 years of experience in research on the development, evaluation and implementation of technologies in the field of healthcare. 
 
-Frank our simulation mannequin platform was developed through research at University of
-Sherbrooke and extensively tested in multiple EMS training scenarios with over 500 firefighters,
-paramedics, first responders, nurses and ER personnel. FrankSim was founded in June 2022 by
-Patrick Boissy and Mathieu Hamel combining 42 years of experience in research on the
-development, evaluation and implementation of technologies in the field of healthcare. Patrick
-Boissy is a professor in orthopedic surgery and senior career investigator at Université de
-Sherbrooke, Research centre on aging and Clinical Research Center CHUS. He is the lead
-inventor of the technology and CEO with expertise’s in biomechanics and usability engineering.
-Mathieu Hamel is senior biomedical engineer and research coordinator at Research centre on
-aging. He is co-inventor of the technology and CTO with expertise’s in electrical engineering and
-electronics and technology development. They are supported by a team of highly qualified
-personnel in the field of electrical, mechanical and software engineering, a network of content
-expert in the clinical field of EMS and simulation and an emerging network of advisors and
-partners in the industry.
+- Patrick Boissy is a professor in orthopedic surgery and senior career investigator at Université de Sherbrooke, Research centre on aging and Clinical Research Center CHUS. He is the lead inventor of the technology and CEO with expertise’s in biomechanics and usability engineering.
+
+- Mathieu Hamel is senior biomedical engineer and research coordinator at Research centre on aging. He is co-inventor of the technology and CTO with expertise’s in electrical engineering and electronics and technology development. 
+
+- They are supported by a team of highly qualified personnel in the field of electrical, mechanical and software engineering, a network of content expert in the clinical field of EMS and simulation and an emerging network of advisors and partners in the industry.

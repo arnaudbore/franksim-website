@@ -15,7 +15,7 @@
           <div class="member-thume">
             <img src="{{ .image | absURL }}" alt="image">
           </div>
-          <h3>{{.name}}</h3>
+          <h3><a target="_blank" href={{.linkedin}}>{{.name}}</h3></a>
           <p>{{.post}}</p>
             {{.degree}}<br>
             {{.cv}}<br>
@@ -24,7 +24,6 @@
         </div>
       </div>
       {{end}}
-
     </div>
   </div>
 </section>
